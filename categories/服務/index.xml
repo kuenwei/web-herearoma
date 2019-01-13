@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>服務 on 循香匯 HEREAROMA</title>
+    <link>https://miguelsimoni.github.io/categories/%E6%9C%8D%E5%8B%99/</link>
+    <description>Recent content in 服務 on 循香匯 HEREAROMA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://miguelsimoni.github.io/categories/%E6%9C%8D%E5%8B%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>塔羅解讀</title>
+      <link>https://miguelsimoni.github.io/service/service2/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://miguelsimoni.github.io/service/service2/</guid>
+      <description>&lt;p&gt;塔羅牌能夠運用的範圍很廣，除了常見的占卜之外，其實更適合拿來釐清「混屯不明」的狀態！我喜歡透過牌卡解讀，為您提供所有可能的答案，找到你想要用力的方向，並跟你說「可以怎麼用力」。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
