@@ -675,7 +675,7 @@ img {
   text-align: center;
 }
 .entry-content hr:after {
-  content: '\0000A7';
+  content: '\002026';
 //  content: attr(data-content);
   display: inline-block;
   position: relative;
