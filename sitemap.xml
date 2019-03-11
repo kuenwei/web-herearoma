@@ -22,11 +22,6 @@
   </url>
   
   <url>
-    <loc>https://www.herearoma.com/event/opening-discount/</loc>
-    <lastmod>2018-12-12T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.herearoma.com/service/service2/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url>
@@ -72,6 +67,10 @@
   <url>
     <loc>https://www.herearoma.com/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/event/opening-discount/</loc>
   </url>
   
   <url>
