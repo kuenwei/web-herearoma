@@ -467,15 +467,14 @@ QR Code 掃碼轉帳</h3>
 
 
 
-
 <script type="text/javascript">
-jQuery("a").each(function(index) {
+  var links = document.links;
 
-var r = new RegExp("^(https:\/\/www.herearoma.com\/)");
-if (!r.test(jQuery(this).attr('href'))) {
-jQuery(this).attr('target', '_blank');
-}
-});
+  for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+    if (links[i].hostname != window.location.hostname) {
+        links[i].target = '_blank';
+    } 
+  }
 </script>
 
 </body>
