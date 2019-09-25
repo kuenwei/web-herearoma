@@ -7,18 +7,88 @@
   </url>
   
   <url>
+    <loc>https://www.herearoma.com/categories/</loc>
+    <lastmod>2019-01-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/event/</loc>
+    <lastmod>2019-01-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.herearoma.com/event/srt-class-taipei/</loc>
     <lastmod>2019-01-01T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.herearoma.com/post/2018/12/how-to-pay-for-herearoma/</loc>
+    <loc>https://www.herearoma.com/tags/</loc>
+    <lastmod>2019-01-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/</loc>
+    <lastmod>2019-01-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/categories/%E7%99%82%E7%99%92/</loc>
+    <lastmod>2019-01-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/tags/%E7%99%82%E7%99%92/</loc>
+    <lastmod>2019-01-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/tags/%E7%BF%BB%E8%BD%89%E4%BA%BA%E7%94%9F/</loc>
+    <lastmod>2019-01-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/post/</loc>
     <lastmod>2018-12-19T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.herearoma.com/post/2018/12/the-place-of-herearoma/</loc>
+    <loc>https://www.herearoma.com/news/2018/12/how-to-pay-for-herearoma/</loc>
+    <lastmod>2018-12-19T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/tags/%E6%95%99%E5%AD%B8/</loc>
+    <lastmod>2018-12-19T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/categories/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</loc>
+    <lastmod>2018-12-19T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/tags/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</loc>
+    <lastmod>2018-12-19T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/news/2018/12/the-place-of-herearoma/</loc>
     <lastmod>2018-12-12T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/tags/%E7%A9%BA%E9%96%93/</loc>
+    <lastmod>2018-12-12T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/service/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/tags/%E5%A1%94%E7%BE%85/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -27,7 +97,37 @@
   </url>
   
   <url>
+    <loc>https://www.herearoma.com/categories/%E6%9C%8D%E5%8B%99/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/tags/%E6%BC%A2%E6%96%B9%E8%8A%B3%E7%99%82/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.herearoma.com/service/service3/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/tags/%E7%89%8C%E5%8D%A1/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/categories/%E7%B2%BE%E6%B2%B9/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/tags/%E7%B2%BE%E6%B2%B9/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/tags/%E7%B6%93%E7%B5%A1%E6%8C%89%E6%91%A9/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -42,125 +142,7 @@
   </url>
   
   <url>
-    <loc>https://www.herearoma.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/event/</loc>
-    <lastmod>2019-01-01T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/post/</loc>
-    <lastmod>2018-12-19T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/service/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.herearoma.com/event/opening-discount/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/tags/%E5%A1%94%E7%BE%85/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/</loc>
-    <lastmod>2019-01-01T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/tags/%E6%95%99%E5%AD%B8/</loc>
-    <lastmod>2018-12-19T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/categories/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</loc>
-    <lastmod>2018-12-19T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/tags/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</loc>
-    <lastmod>2018-12-19T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/categories/%E6%9C%8D%E5%8B%99/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/tags/%E6%BC%A2%E6%96%B9%E8%8A%B3%E7%99%82/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/tags/%E7%89%8C%E5%8D%A1/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/categories/%E7%99%82%E7%99%92/</loc>
-    <lastmod>2019-01-01T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/tags/%E7%99%82%E7%99%92/</loc>
-    <lastmod>2019-01-01T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/tags/%E7%A9%BA%E9%96%93/</loc>
-    <lastmod>2018-12-12T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/categories/%E7%B2%BE%E6%B2%B9/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/tags/%E7%B2%BE%E6%B2%B9/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/tags/%E7%B6%93%E7%B5%A1%E6%8C%89%E6%91%A9/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/tags/%E7%BF%BB%E8%BD%89%E4%BA%BA%E7%94%9F/</loc>
-    <lastmod>2019-01-01T12:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
