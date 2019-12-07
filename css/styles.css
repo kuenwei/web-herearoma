@@ -169,7 +169,7 @@ h6,
   font-family: "jf-jinxuan", "Open sans", Helvetica, Arial, sans-serif;
   font-weight: 700;
   color: #333333;
-  margin-bottom: 2rem;
+  margin-bottom: .75rem;
 }
 h1 {
   font-size: 40px;
@@ -629,13 +629,6 @@ img {
 .entry-content p {
   font-size: 1.2rem;
   line-height: 2rem;
-}
-.entry-content h2 {
-  line-height: 1.2;
-  font-size: 30px;
-  font-size: 1.875rem;
-  padding-top: 20px;
-  margin-bottom: 20px;
 }
 .entry-content figure, img {
   display: block;
