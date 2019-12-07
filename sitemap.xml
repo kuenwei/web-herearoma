@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.herearoma.com/service/service2/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/service/service4/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.herearoma.com/service/service1/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.herearoma.com/about/</loc>
   </url>
   
@@ -32,12 +47,12 @@
   </url>
   
   <url>
-    <loc>https://www.herearoma.com/categories/%E7%99%82%E7%99%92/</loc>
+    <loc>https://www.herearoma.com/tags/%E7%99%82%E7%99%92/</loc>
     <lastmod>2019-01-01T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.herearoma.com/tags/%E7%99%82%E7%99%92/</loc>
+    <loc>https://www.herearoma.com/categories/%E7%99%82%E7%99%92/</loc>
     <lastmod>2019-01-01T12:00:00+00:00</lastmod>
   </url>
   
@@ -62,12 +77,12 @@
   </url>
   
   <url>
-    <loc>https://www.herearoma.com/tags/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</loc>
+    <loc>https://www.herearoma.com/categories/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</loc>
     <lastmod>2018-12-19T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.herearoma.com/categories/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</loc>
+    <loc>https://www.herearoma.com/tags/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</loc>
     <lastmod>2018-12-19T12:00:00+00:00</lastmod>
   </url>
   
@@ -82,6 +97,11 @@
   </url>
   
   <url>
+    <loc>https://www.herearoma.com/tags/eo%E8%83%BD%E9%87%8F%E6%95%B4%E5%BE%A9/</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.herearoma.com/service/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url>
@@ -92,22 +112,17 @@
   </url>
   
   <url>
-    <loc>https://www.herearoma.com/service/service2/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.herearoma.com/categories/%E6%9C%8D%E5%8B%99/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.herearoma.com/tags/%E6%BC%A2%E6%96%B9%E8%8A%B3%E7%99%82/</loc>
+    <loc>https://www.herearoma.com/service/service3/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.herearoma.com/service/service3/</loc>
+    <loc>https://www.herearoma.com/tags/%E6%BC%A2%E6%96%B9%E8%8A%B3%E7%99%82/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,21 +138,6 @@
   
   <url>
     <loc>https://www.herearoma.com/categories/%E7%B2%BE%E6%B2%B9/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/tags/%E7%B6%93%E7%B5%A1%E6%8C%89%E6%91%A9/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/service/service4/</loc>
-    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.herearoma.com/service/service1/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url>
   

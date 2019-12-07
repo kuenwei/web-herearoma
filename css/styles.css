@@ -513,7 +513,7 @@ img {
   .entry-content table caption {
       font-size: 1.3em;
     }
-    
+
   .entry-content table thead {
       border: none;
       clip: rect(0 0 0 0);
@@ -524,20 +524,20 @@ img {
       position: absolute;
       width: 1px;
     }
-    
+
   .entry-content table tr {
       border-bottom: 3px solid #ddd;
       display: block;
       margin-bottom: .625em;
     }
-    
+
   .entry-content table td {
       border-bottom: 1px solid #ddd;
       display: block;
       font-size: 1em;
       text-align: right;
     }
-    
+
   .entry-content table td::before {
       /*
       * aria-label has no advantage, it won&#39;t be read inside a table
@@ -548,7 +548,7 @@ img {
       font-weight: bold;
       text-transform: uppercase;
     }
-    
+
   .entry-content table td:last-child {
       border-bottom: 0;
     }
@@ -623,12 +623,12 @@ img {
 }
 .entry-content {
   margin: 0 0 60px 0;
-  font-family: 'ipamjm', serif !important;
+  font-family: Volkhov, 'datm5', serif !important;
 }
 
 .entry-content p {
   font-size: 1.2rem;
-  line-height: 1.75rem;
+  line-height: 2rem;
 }
 .entry-content h2 {
   line-height: 1.2;
@@ -644,22 +644,22 @@ img {
   max-width: 100%;
 }
 .entry-content a.largebtn {
-  background-color:#1151d7; 
-  color: #fff; 
-  border-radius:1em; 
-  padding: 0.5em; 
-  padding-left: 0.8em; 
+  background-color:#1151d7;
+  color: #fff;
+  border-radius:1em;
+  padding: 0.5em;
+  padding-left: 0.8em;
   padding-right: 0.8em;
 }
 .entry-content a.smallbtn {
-  background-color: #b0524e; 
-  color: #fff; 
-  border-radius:1em; 
-  padding: 0.3em; 
-  padding-left: 0.8em; 
-  padding-right: 0.8em; 
-  font-size: 0.9em; 
-  margin: 0.3em; 
+  background-color: #b0524e;
+  color: #fff;
+  border-radius:1em;
+  padding: 0.3em;
+  padding-left: 0.8em;
+  padding-right: 0.8em;
+  font-size: 0.9em;
+  margin: 0.3em;
   font-family: 'xingothic-tc', sans-serif;
 }
 .entry-content hr {
