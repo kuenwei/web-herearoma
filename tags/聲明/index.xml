@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>聲明 on 循香薈</title>
@@ -7,9 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://www.herearoma.com/tags/%E8%81%B2%E6%98%8E/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://www.herearoma.com/tags/%E8%81%B2%E6%98%8E/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>服務說明與注意事項聲明</title>
@@ -17,7 +14,21 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
       
       <guid>https://www.herearoma.com/articles/read-it-before-all/</guid>
-      <description>版本：2020 年 1 月</description>
+        <description>&lt;p&gt;版本：2020 年 1 月 1 日&lt;/p&gt;
+&lt;p&gt;本聲明適用所有網站項目，包含收費與未收費所有之服務、內容與課程，您若繼續瀏覽本網（站）或接受由此網站提供之服務，即表示您已閱讀瞭解且並同意接受本網（站）服務條款之所有內容。&lt;/p&gt;
+&lt;p&gt;本網（站）有權於任何時間修改或變更本服務條款內容，修改後將公布本網（站）上，敦煌書局不再個別通知會員，建議會員隨時注意該等修改或變更。會員於任何修改或變更後繼續使用本網（站）服務時，視為會員已瞭解並同意接受該等修改或變更。&lt;/p&gt;
+&lt;p&gt;若不同意上述的條款修訂或更新，或不接受本服務條款的任一約定，您應立即停止使用本網（站）服務。您同意使用本網（站）服務所生權利義務，得以電子文件為作表示方式。&lt;strong&gt;任何疑義事項，請您於第一時間提出並停止使用本網（站）以及相關人所提供之任何數位或本人之服務。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;通用說明&lt;/h2&gt;
+&lt;p&gt;由本網（站）以及相關人所提供之包含但不限於占卜、諮詢、芳療、能量服務、身心靈工具與課程均無法取代醫療行為與醫事診斷，並沒有保證任何療效，若有明顯不適症狀請務必尋求專業協助。&lt;/p&gt;
+&lt;p&gt;衛生福利部【台灣e院】醫療諮詢服務：&lt;a href=&#34;https://sp1.hso.mohw.gov.tw/doctor/Index1.php&#34;&gt;https://sp1.hso.mohw.gov.tw/doctor/Index1.php&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;heading-1&#34;&gt;關於身體碰觸&lt;/h2&gt;
+&lt;p&gt;因生理性別之不同及個人對身體界線觀念，部分療程、課程涉及身體碰觸時，若個案有不適、不舒服的感覺，得立即停止所行之服務，若經明確告知仍未停止服務者，得採去必要途徑訴諸個人權利。&lt;/p&gt;
+&lt;h2 id=&#34;eo-&#34;&gt;EO 能量整復&lt;/h2&gt;
+&lt;p&gt;Energetic Osteopathy，由 Kalu Schreiber 創始，中文名稱為「能量整復」。在能量中，我們重新感受身體的韻律，並由施作者一同陪伴身體、器官的韻律舞動，在協作中一同感受身心平衡的氛圍。&lt;/p&gt;
+&lt;h2 id=&#34;srt-&#34;&gt;SRT 靈性反應療法&lt;/h2&gt;
+&lt;p&gt;靈性反應療法(Spiritual Response Therapy, SRT)由 Robert Detzler 創辦，是一個通過搜尋潛意識與靈魂紀錄，快速找出和釋放當中不和諧、限制性的思想並代之以慈愛、支持的思想和信念的系統。SRT提供正確、力量強大、幾乎無痛並精準的方式去改變我們的內心和外在生命。從而讓我們生活得更自在。SRT系統使用一個靈擺，一副圖表及一些特定的問題來搜尋和清理潛意識與靈魂紀錄中的所有不和諧程式。&lt;/p&gt;
+
+        </description>
     </item>
     
   </channel>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 循香薈</title>
@@ -7,9 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 01 Jan 2020 06:00:00 +0800</lastBuildDate>
-    
-	<atom:link href="https://www.herearoma.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://www.herearoma.com/categories/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>13月亮曆</title>
@@ -17,7 +14,8 @@
       <pubDate>Wed, 01 Jan 2020 06:00:00 +0800</pubDate>
       
       <guid>https://www.herearoma.com/categories/13%E6%9C%88%E4%BA%AE%E6%9B%86/</guid>
-      <description></description>
+        <description>
+        </description>
     </item>
     
     <item>
@@ -26,7 +24,8 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
       
       <guid>https://www.herearoma.com/categories/%E5%85%AC%E5%91%8A/</guid>
-      <description></description>
+        <description>
+        </description>
     </item>
     
   </channel>
