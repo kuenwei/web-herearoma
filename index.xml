@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>循香薈</title>
-    <link>https://examplesite.com/</link>
+    <link>https://www.herearoma.com/</link>
     <description>Recent content on 循香薈</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 01 Jan 2020 06:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.herearoma.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>13月亮曆</title>
-      <link>https://examplesite.com/articles/13moon/</link>
+      <link>https://www.herearoma.com/articles/13moon/</link>
       <pubDate>Wed, 01 Jan 2020 06:00:00 +0800</pubDate>
       
-      <guid>https://examplesite.com/articles/13moon/</guid>
+      <guid>https://www.herearoma.com/articles/13moon/</guid>
       <description>真的是因緣際會真實地</description>
     </item>
     
     <item>
       <title>服務說明與注意事項聲明</title>
-      <link>https://examplesite.com/articles/read-it-before-all/</link>
+      <link>https://www.herearoma.com/articles/read-it-before-all/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
       
-      <guid>https://examplesite.com/articles/read-it-before-all/</guid>
+      <guid>https://www.herearoma.com/articles/read-it-before-all/</guid>
       <description>版本：2020 年 1 月</description>
     </item>
     
     <item>
       <title>網站使用條款與須知</title>
-      <link>https://examplesite.com/articles/website/</link>
+      <link>https://www.herearoma.com/articles/website/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
       
-      <guid>https://examplesite.com/articles/website/</guid>
+      <guid>https://www.herearoma.com/articles/website/</guid>
       <description>歡迎您來到循香匯個人</description>
     </item>
     
