@@ -1,95 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>循香薈 HEREAROMA</title>
-    <link>https://www.herearoma.com/</link>
-    <description>Recent content on 循香薈 HEREAROMA</description>
+    <title>循香薈</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on 循香薈</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 06:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://www.herearoma.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>塔羅牌卡解讀</title>
-      <link>https://www.herearoma.com/service/service2/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <title>13月亮曆</title>
+      <link>https://examplesite.com/articles/13moon/</link>
+      <pubDate>Wed, 01 Jan 2020 06:00:00 +0800</pubDate>
       
-      <guid>https://www.herearoma.com/service/service2/</guid>
-      <description>&lt;p&gt;塔羅牌能夠運用的範圍很廣，除了常見的占卜之外，其實更適合拿來釐清「混屯不明」的狀態！我喜歡透過牌卡解讀，為您提供所有可能的答案，找到你想要用力的方向，並跟你說「可以怎麼用力」。&lt;/p&gt;</description>
+      <guid>https://examplesite.com/articles/13moon/</guid>
+      <description>真的是因緣際會真實地</description>
     </item>
     
     <item>
-      <title>EO 能量整復</title>
-      <link>https://www.herearoma.com/service/service4/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <title>服務說明與注意事項聲明</title>
+      <link>https://examplesite.com/articles/read-it-before-all/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
       
-      <guid>https://www.herearoma.com/service/service4/</guid>
-      <description>&lt;p&gt;Energetic Osteopathy，由 Kalu Schreiber 創始，中文名稱為「能量整復」。在能量中，我們重新感受身體的韻律，並由施作者一同陪伴身體、器官的韻律舞動，在協作中一同感受身心平衡的氛圍。&lt;/p&gt;</description>
+      <guid>https://examplesite.com/articles/read-it-before-all/</guid>
+      <description>版本：2020 年 1 月</description>
     </item>
     
     <item>
-      <title>靈性反應療法</title>
-      <link>https://www.herearoma.com/service/service1/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <title>網站使用條款與須知</title>
+      <link>https://examplesite.com/articles/website/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
       
-      <guid>https://www.herearoma.com/service/service1/</guid>
-      <description>&lt;p&gt;在成長的歷程中，每個人總會留下許多記憶與經驗，有些深深烙印在心中，有些遺忘卻潛藏著。這些負面能量、程式持續影響我們日常生活，很想要甩開大步向前，卻又感覺不知從何著力。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>簡介</title>
-      <link>https://www.herearoma.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.herearoma.com/about/</guid>
-      <description>經絡循行 花草香凝 身心匯聚 循，遵循、依照；香，氣味、優雅；薈，茂盛、聚集。 “循香薈”是一場香氣與自己的故事，以精油香氣為索引，透過不同的工具一</description>
-    </item>
-    
-    <item>
-      <title>SRT 靈性反應療法（Spiritual Response Therapy）認證課程 2019 年台北場</title>
-      <link>https://www.herearoma.com/event/srt-class-taipei/</link>
-      <pubDate>Tue, 01 Jan 2019 12:00:00 +0000</pubDate>
-      
-      <guid>https://www.herearoma.com/event/srt-class-taipei/</guid>
-      <description>SRT 是結合靈擺與圖表，連結高我（超意識）來搜尋和清理我們潛意識與靈魂紀錄的全方位療法。我們可以透過 SRT 將所有不和諧程式（例如：誓言、負面能量、不</description>
-    </item>
-    
-    <item>
-      <title>如何付款給“循香薈”</title>
-      <link>https://www.herearoma.com/news/how-to-pay-for-herearoma/</link>
-      <pubDate>Wed, 19 Dec 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://www.herearoma.com/news/how-to-pay-for-herearoma/</guid>
-      <description>在此聲明，此篇並非有任何委託，代表本文非業配文，單純因為我使用了這些功能。身為一個獨立經營者，一直希望能夠用好的方法提供給大家便利的付款手續</description>
-    </item>
-    
-    <item>
-      <title>“循香薈”空間指南</title>
-      <link>https://www.herearoma.com/news/the-place-of-herearoma/</link>
-      <pubDate>Wed, 12 Dec 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://www.herearoma.com/news/the-place-of-herearoma/</guid>
-      <description>新空間籌備中，請稍待&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>漢方經絡芳療</title>
-      <link>https://www.herearoma.com/service/service3/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.herearoma.com/service/service3/</guid>
-      <description>&lt;p&gt;用現代科學方式，凝聚的傳統中藥的精神，將中草藥由一片片的植物，化為滴滴精油。除了傳統的西洋芳療外，漢方芳療融合了中醫概念，透過調配中草藥精油，整合東西方的芳療精神。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>“循香薈”試營運：特惠專案說明</title>
-      <link>https://www.herearoma.com/event/opening-discount/</link>
-      <pubDate>Mon, 12 Mar 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://www.herearoma.com/event/opening-discount/</guid>
-      <description>服務項目更新中，請稍待&amp;hellip; 服務價目 內容 專案優惠 原價 優惠期間 塔羅諮詢 500 / 0.5hr900 / 1hr首次預約 800 / 1hr 1800 （ 1 小時不限問題） 即日起至 2019/2/26 經絡</description>
+      <guid>https://examplesite.com/articles/website/</guid>
+      <description>歡迎您來到循香匯個人</description>
     </item>
     
   </channel>

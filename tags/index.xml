@@ -1,103 +1,85 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 循香薈 HEREAROMA</title>
-    <link>https://www.herearoma.com/tags/</link>
-    <description>Recent content in Tags on 循香薈 HEREAROMA</description>
+    <title>Tags on 循香薈</title>
+    <link>https://examplesite.com/tags/</link>
+    <description>Recent content in Tags on 循香薈</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 06:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://www.herearoma.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>EO能量整復</title>
-      <link>https://www.herearoma.com/tags/eo%E8%83%BD%E9%87%8F%E6%95%B4%E5%BE%A9/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <title>13月亮</title>
+      <link>https://examplesite.com/tags/13%E6%9C%88%E4%BA%AE/</link>
+      <pubDate>Wed, 01 Jan 2020 06:00:00 +0800</pubDate>
       
-      <guid>https://www.herearoma.com/tags/eo%E8%83%BD%E9%87%8F%E6%95%B4%E5%BE%A9/</guid>
+      <guid>https://examplesite.com/tags/13%E6%9C%88%E4%BA%AE/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>療癒</title>
-      <link>https://www.herearoma.com/tags/%E7%99%82%E7%99%92/</link>
-      <pubDate>Tue, 01 Jan 2019 12:00:00 +0000</pubDate>
+      <title>曆法</title>
+      <link>https://examplesite.com/tags/%E6%9B%86%E6%B3%95/</link>
+      <pubDate>Wed, 01 Jan 2020 06:00:00 +0800</pubDate>
       
-      <guid>https://www.herearoma.com/tags/%E7%99%82%E7%99%92/</guid>
+      <guid>https://examplesite.com/tags/%E6%9B%86%E6%B3%95/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>翻轉人生</title>
-      <link>https://www.herearoma.com/tags/%E7%BF%BB%E8%BD%89%E4%BA%BA%E7%94%9F/</link>
-      <pubDate>Tue, 01 Jan 2019 12:00:00 +0000</pubDate>
+      <title>生命藍圖</title>
+      <link>https://examplesite.com/tags/%E7%94%9F%E5%91%BD%E8%97%8D%E5%9C%96/</link>
+      <pubDate>Wed, 01 Jan 2020 06:00:00 +0800</pubDate>
       
-      <guid>https://www.herearoma.com/tags/%E7%BF%BB%E8%BD%89%E4%BA%BA%E7%94%9F/</guid>
+      <guid>https://examplesite.com/tags/%E7%94%9F%E5%91%BD%E8%97%8D%E5%9C%96/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>教學</title>
-      <link>https://www.herearoma.com/tags/%E6%95%99%E5%AD%B8/</link>
-      <pubDate>Wed, 19 Dec 2018 12:00:00 +0000</pubDate>
+      <title>使用條款</title>
+      <link>https://examplesite.com/tags/%E4%BD%BF%E7%94%A8%E6%A2%9D%E6%AC%BE/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
       
-      <guid>https://www.herearoma.com/tags/%E6%95%99%E5%AD%B8/</guid>
+      <guid>https://examplesite.com/tags/%E4%BD%BF%E7%94%A8%E6%A2%9D%E6%AC%BE/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>最新消息</title>
-      <link>https://www.herearoma.com/tags/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</link>
-      <pubDate>Wed, 19 Dec 2018 12:00:00 +0000</pubDate>
+      <title>務必看</title>
+      <link>https://examplesite.com/tags/%E5%8B%99%E5%BF%85%E7%9C%8B/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
       
-      <guid>https://www.herearoma.com/tags/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</guid>
+      <guid>https://examplesite.com/tags/%E5%8B%99%E5%BF%85%E7%9C%8B/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>空間</title>
-      <link>https://www.herearoma.com/tags/%E7%A9%BA%E9%96%93/</link>
-      <pubDate>Wed, 12 Dec 2018 12:00:00 +0000</pubDate>
+      <title>服務</title>
+      <link>https://examplesite.com/tags/%E6%9C%8D%E5%8B%99/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
       
-      <guid>https://www.herearoma.com/tags/%E7%A9%BA%E9%96%93/</guid>
+      <guid>https://examplesite.com/tags/%E6%9C%8D%E5%8B%99/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>塔羅</title>
-      <link>https://www.herearoma.com/tags/%E5%A1%94%E7%BE%85/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <title>網站</title>
+      <link>https://examplesite.com/tags/%E7%B6%B2%E7%AB%99/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
       
-      <guid>https://www.herearoma.com/tags/%E5%A1%94%E7%BE%85/</guid>
+      <guid>https://examplesite.com/tags/%E7%B6%B2%E7%AB%99/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>漢方芳療</title>
-      <link>https://www.herearoma.com/tags/%E6%BC%A2%E6%96%B9%E8%8A%B3%E7%99%82/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <title>聲明</title>
+      <link>https://examplesite.com/tags/%E8%81%B2%E6%98%8E/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
       
-      <guid>https://www.herearoma.com/tags/%E6%BC%A2%E6%96%B9%E8%8A%B3%E7%99%82/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>牌卡</title>
-      <link>https://www.herearoma.com/tags/%E7%89%8C%E5%8D%A1/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.herearoma.com/tags/%E7%89%8C%E5%8D%A1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>精油</title>
-      <link>https://www.herearoma.com/tags/%E7%B2%BE%E6%B2%B9/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.herearoma.com/tags/%E7%B2%BE%E6%B2%B9/</guid>
+      <guid>https://examplesite.com/tags/%E8%81%B2%E6%98%8E/</guid>
       <description></description>
     </item>
     

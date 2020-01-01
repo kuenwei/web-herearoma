@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>聲明 on 循香薈</title>
+    <link>https://examplesite.com/tags/%E8%81%B2%E6%98%8E/</link>
+    <description>Recent content in 聲明 on 循香薈</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://examplesite.com/tags/%E8%81%B2%E6%98%8E/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>服務說明與注意事項聲明</title>
+      <link>https://examplesite.com/articles/read-it-before-all/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/articles/read-it-before-all/</guid>
+      <description>版本：2020 年 1 月</description>
+    </item>
+    
+  </channel>
+</rss>
